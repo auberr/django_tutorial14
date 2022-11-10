@@ -1,4 +1,5 @@
-조건1. 회원가입 성공 시 “회원 가입이 완료되었습니다” 메세지를 Response 해주세요
+조건1. 회원가입 성공 시 “회원 가입이 완료되었습니다” 메세지를 Response 해주세요.
+
 조건2. 회원 가입이 완료된 user 객체에서 생년월일 (date_of_birth column)은 필요하지 않습니다.
 ![001](https://user-images.githubusercontent.com/6766202/200980066-e7a3e4d9-dad9-45bd-8cd3-a7829ee323d4.png)
 
